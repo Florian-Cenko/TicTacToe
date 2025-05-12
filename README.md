@@ -15,3 +15,6 @@ This project was created for learning and practicing basic Python concepts like:
    ```bash
    git clone https://github.com/Florian-Cenko/TicTacToePython.git
    cd TicTacToePython
+
+## ▶️ How to Run
+   python tic_tac_toe.py
