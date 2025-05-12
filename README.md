@@ -17,4 +17,4 @@ This project was created for learning and practicing basic Python concepts like:
    cd TicTacToePython
 
 ## ▶️ How to Run
-   python tic_tac_toe.py
+   python Tic-Tac-Toe.py
